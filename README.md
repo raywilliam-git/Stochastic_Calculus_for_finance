@@ -1,12 +1,3 @@
-# Derivative Pricing Engine
+# Stochastic_Calculus_for_finance
 
-A quantitative finance project focused on implementing pricing models for financial derivatives in C++, combining stochastic calculus theory, Monte Carlo methods, variance reduction techniques and exotic options valuation.
-
-- European Option Pricing (Black-Scholes)
-- Greeks Computation (Delta, Gamma, Vega)
-- Monte Carlo Pricing
-- Asian Options Pricing
-- Barrier Options Pricing
-- Variance Reduction Techniques
-- Conditional Monte Carlo
-- Antithetic Variates
+Implementation of options pricing, using explicit formulas or Monte Carlo methods, for European, Asian, Barrier options, and for Log-Normal Jumps model
